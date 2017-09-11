@@ -1,0 +1,14 @@
+[26-Jan-2017 12:35:21 UTC] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 27
+[27-Jan-2017 17:08:43 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:08:55 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:08:59 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:10:01 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:10:14 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:13:34 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:13:37 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:15:17 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:15:19 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:16:45 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:18:03 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[27-Jan-2017 17:18:52 UTC] PHP Fatal error:  Cannot redeclare SOffer::detail_oneday() in /home/anhinfoadmin/public_html/sr/application/controllers/Soffer.php on line 110
+[29-Jan-2017 07:22:09 UTC] PHP Fatal error:  Call to a member function view() on null in /home/anhinfoadmin/public_html/tourguide/application/controllers/Itinerary.php on line 24
